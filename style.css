@@ -1,0 +1,84 @@
+ 
+ *{
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    font-size: 1.2rem;
+ }
+
+ .h{
+    background-color: whitesmoke;
+    color: gray ;
+    height: 80px;
+    width: 90%;
+    margin: 100px auto auto auto;
+ }
+h1{
+    font-size: 2rem;
+    padding: 10px 0px 0px 10px ;
+}
+ .main{
+    margin-top: 4%;
+ }
+
+ .COLOR-ONE{
+    background-color: #2B83C5;
+    color: whitesmoke;
+}
+   .COLOR-two{
+   background-color: #2792D0;
+   color: whitesmoke;
+ }
+ .COLOR-three{
+   background-color: #40A1D8;
+   color: whitesmoke;
+ }
+ .COLOR-four{
+   background-color: #46A9DF;
+   color: whitesmoke;
+ }
+ .COLOR-five{
+   background-color: #58B5E6;
+   color: whitesmoke;
+ }
+ .COLOR-six{
+   background-color: #72C0EB;
+   color: whitesmoke;
+ }
+ .COLOR-seven{
+   background-color: #8ECBED;
+   color: whitesmoke;
+ }
+ .COLOR-eight{
+   background-color: #1CB584;
+   color: whitesmoke;
+ }
+ .COLOR-nine{
+   background-color: #F6B1CF;
+   color: whitesmoke;
+ }
+ .COLOR-ten{
+   background-color: #F39EC2;
+   color: whitesmoke;
+ }
+ .COLOR-eleven{
+   background-color: #F38CB3;
+   color: whitesmoke;
+ }
+ .COLOR-twelve{
+   background-color: #F279A7;
+   color: whitesmoke;
+ }
+ .COLOR-thirteen{
+   background-color: #F16C9A;
+   color: whitesmoke;
+ }
+ .COLOR-fourteen{
+   background-color: #F0588B;
+   color: whitesmoke;
+   opacity: 0.9;
+ }
+ .COLOR-fifteen{
+   background-color: #F0588B;
+   color: whitesmoke;
+ }
